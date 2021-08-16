@@ -1,0 +1,1172 @@
+# Copyright (C) 2019 WD village
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SagaBlog Light 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/sagablog-light\n"
+"POT-Creation-Date: 2020-09-29 19:20+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-09-30 11:42+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oй! Страница не найдена."
+
+#. translators: %s = search query
+#: 404.php:24
+msgid "Nothing found for &ldquo;%s&rdquo;"
+msgstr "Ничего не найдено для &ldquo;%s&rdquo;"
+
+#: 404.php:26
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr "Один комментарий для &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: comments.php:63
+msgid "Comment navigation"
+msgstr "Поиск по комментариям"
+
+#: comments.php:66
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:67
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: footer.php:26
+msgid "Copyright"
+msgstr "Copyright"
+
+#: footer.php:38
+msgid "Powered by "
+msgstr "Powered by "
+
+#: footer.php:40
+msgid "Theme: "
+msgstr "Тема: "
+
+#: footer.php:40
+msgid " by "
+msgstr "от"
+
+#: functions.php:56
+msgid "Custom Large 1040x600"
+msgstr "Собственный размер  1040x600"
+
+#: functions.php:62
+msgid "Primary"
+msgstr "Главный"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:137 functions.php:147
+msgid "Add widgets here."
+msgstr "Добавьте виджет здесь."
+
+#: functions.php:145
+msgid "Post widgets"
+msgstr "Виджеты записей"
+
+#: functions.php:155
+msgid "Contact Page Widget"
+msgstr "Виджет страницы контактов"
+
+#: functions.php:157
+msgid "Contact Page Widget area appears in the contact page."
+msgstr "Область виджетов для страницы контактов."
+
+#: functions.php:165
+msgid "Footer Full Width Widget"
+msgstr "Виджет в футере, занимающий всю ширину страницы"
+
+#: functions.php:167
+msgid "Footer widgets area for widgets that will have full width."
+msgstr "Область в футере для виджетов, которые будут иметь полную ширину."
+
+#: functions.php:176
+msgid "Footer Widgets"
+msgstr "Виджеты в футере"
+
+#: functions.php:178
+msgid "Footer widgets area appears in the footer of the site."
+msgstr "Область виджетов футера отображается в футере сайта."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Muli, translate this to 'off'. Do not translate into your own language.
+#: functions.php:200
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "включен"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:207
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "включен"
+
+#: functions.php:238
+msgid "expand child menu"
+msgstr "развернуть дочернее меню"
+
+#: functions.php:239
+msgid "collapse child menu"
+msgstr "свернуть дочернее меню"
+
+#: functions.php:338
+msgid "After you import this demo, you can choose Menu-demo how primary menu."
+msgstr ""
+"После того, как вы импортируете этот демо контент, вы можете выбрать Menu-"
+"demo как основное меню."
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: header.php:68 header.php:120
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/customizer/customizer.php:22
+msgid "Reset settings"
+msgstr "Сбросить настройки"
+
+#: inc/customizer/customizer.php:24
+msgid "Reset all settings."
+msgstr "Сбросить все настройки."
+
+#: inc/customizer/customizer.php:35
+msgid ""
+"Check to reset all settings to the default values. Attention! All settings "
+"will be reset to the default values!"
+msgstr ""
+"Установите этот флажок, чтобы сбросить все настройки до значений по "
+"умолчанию. Внимание! Все настройки будут сброшены до значений по умолчанию!"
+
+#: inc/customizer/sagablog-customizer-about-theme.php:14
+msgid "About \"SagaBlog Light\""
+msgstr "О теме \"SagaBlog Light\""
+
+#: inc/customizer/sagablog-customizer-about-theme.php:15
+msgid "Demo and on-line documents for \"SagaBlog Light\" theme here:"
+msgstr "Демо данные и онлайн-документация для темы \"SagaBlog Light\" здесь:"
+
+#: inc/customizer/sagablog-customizer-about-theme.php:24
+msgid "Important Links"
+msgstr "Важные ссылки"
+
+#: inc/customizer/sagablog-customizer-colors.php:30
+msgid "Header text color"
+msgstr "Цвет текста в шапке сайта"
+
+#: inc/customizer/sagablog-customizer-colors.php:50
+msgid "Background Color for Main Menu"
+msgstr "Цвет фона для главного меню"
+
+#: inc/customizer/sagablog-customizer-colors.php:70
+msgid "Main Menu text color"
+msgstr "Цвет текста главного меню"
+
+#: inc/customizer/sagablog-customizer-colors.php:90
+msgid "Background Color for Footer"
+msgstr "Цвет фона футера"
+
+#: inc/customizer/sagablog-customizer-colors.php:104
+msgid "Main Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/sagablog-customizer-colors.php:119
+msgid "Complementary color"
+msgstr "Дополнительный цвет"
+
+#: inc/customizer/sagablog-customizer-custom-controls.php:18
+msgid "\"SagaBlog Light\" demo"
+msgstr "\"SagaBlog Light\" демо"
+
+#: inc/customizer/sagablog-customizer-custom-controls.php:22
+msgid "\"SagaBlog\" on-line documentation"
+msgstr "\"SagaBlog\" онлайн  документация "
+
+#: inc/customizer/sagablog-customizer-header-options.php:14
+msgid "Header options"
+msgstr "Опции хедера"
+
+#: inc/customizer/sagablog-customizer-header-options.php:16
+msgid "Header options."
+msgstr "Опции хедера."
+
+#: inc/customizer/sagablog-customizer-header-options.php:34
+msgid "Search box near main menu:"
+msgstr "Поле поиска рядом с главным меню:"
+
+#: inc/customizer/sagablog-customizer-header-options.php:36
+msgid "Show search near menu"
+msgstr "Показать поиск рядом с меню"
+
+#: inc/customizer/sagablog-customizer-header-options.php:37
+msgid "Do not show search near main menu"
+msgstr "Не показывать поиск рядом с главным меню"
+
+#: inc/customizer/sagablog-customizer-header-options.php:57
+msgid "Site title and logo position (frontpage/homepage):"
+msgstr "Заголовок сайта и расположение логотипа (главная / домашняя страница):"
+
+#: inc/customizer/sagablog-customizer-header-options.php:59
+#: inc/customizer/sagablog-customizer-header-options.php:82
+#: inc/customizer/sagablog-customizer-header-options.php:107
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer/sagablog-customizer-header-options.php:60
+#: inc/customizer/sagablog-customizer-header-options.php:83
+#: inc/customizer/sagablog-customizer-header-options.php:108
+msgid "Left"
+msgstr "По левому краю"
+
+#: inc/customizer/sagablog-customizer-header-options.php:80
+msgid "Site title and logo position (other pages):"
+msgstr "Расположение заголовока сайта и логотипа (другие страницы):"
+
+#: inc/customizer/sagablog-customizer-header-options.php:105
+msgid "Menu alignment:"
+msgstr "Выравнивание меню:"
+
+#: inc/customizer/sagablog-customizer-header-options.php:121
+msgid "Menu placement (if the main slider is in the header of page):"
+msgstr "Размещение меню (если основной слайдер находится в шапке страницы):"
+
+#: inc/customizer/sagablog-customizer-header-options.php:124
+msgid "Place main menu after slider"
+msgstr "Главное меню расположено после слайдера"
+
+#: inc/customizer/sagablog-customizer-header-options.php:125
+msgid "Place main menu before slider"
+msgstr "Главное меню расположено перед слайдером"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:15
+msgid "Main slider"
+msgstr "Основной слайдер"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:16
+msgid "Main slider."
+msgstr "Основной слайдер."
+
+#: inc/customizer/sagablog-customizer-main-slider.php:27
+msgid "Main slider on header"
+msgstr "Основной слайдер в хедере"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:30
+msgid "Main slider on header."
+msgstr "Основной слайдер в хедере."
+
+#: inc/customizer/sagablog-customizer-main-slider.php:41
+msgid "Main slider type (in header):"
+msgstr "Тип основного слайдера (в хедере):"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:44
+#: inc/customizer/sagablog-customizer-main-slider.php:319
+msgid "Carousel slider"
+msgstr "Слайдер - карусель"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:45
+#: inc/customizer/sagablog-customizer-main-slider.php:320
+msgid "Fullwidth slider"
+msgstr "Слайдер на всю ширину страницы"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:58
+msgid "Main slider show on header:"
+msgstr "Основной слайдер отображается в хедере:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:61
+#: inc/customizer/sagablog-customizer-main-slider.php:336
+msgid "Show popular posts"
+msgstr "Показать популярные записи"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:62
+#: inc/customizer/sagablog-customizer-main-slider.php:337
+msgid "Show recent posts"
+msgstr "Показать последние записи"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:63
+#: inc/customizer/sagablog-customizer-main-slider.php:338
+msgid "Show selected posts or pages"
+msgstr "Показать выбранные записи или страницы"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:76
+#: inc/customizer/sagablog-customizer-main-slider.php:351
+msgid "If selected \"Show popular posts or related posts\":"
+msgstr "Если выбран вариант «Показывать популярные записи или похожие записи»:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:90
+#: inc/customizer/sagablog-customizer-main-slider.php:365
+msgid "How many posts will show main slider"
+msgstr "Сколько записей покажет основной слайдер"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:91
+#: inc/customizer/sagablog-customizer-main-slider.php:366
+msgid "Max value 20, min value 1"
+msgstr "Максимальное значение 20, минимальное значение 1"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:111
+msgid "If selected \"Show selected posts or pages\":"
+msgstr "Если выбран вариант «Показать выбранные записи или страницы»:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:123
+#: inc/customizer/sagablog-customizer-main-slider.php:399
+msgid "Select posts:"
+msgstr "Выберите записи:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:228
+#: inc/customizer/sagablog-customizer-main-slider.php:500
+msgid "Select pages:"
+msgstr "Выберите страницы:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:302
+msgid "Main slider on home page"
+msgstr "Основной слайдер на главной странице."
+
+#: inc/customizer/sagablog-customizer-main-slider.php:305
+msgid "Main slider on home page."
+msgstr "Основной слайдер на главной странице."
+
+#: inc/customizer/sagablog-customizer-main-slider.php:316
+msgid "Main slider type (in homepage):"
+msgstr "Тип основного слайдера (на главной странице):"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:333
+msgid "Main slider show on home page:"
+msgstr "Основной слайдер отображается на главной странице:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:386
+msgid "If selected \"Show selected posts or pages\""
+msgstr "Если выбран вариант «Показать выбранные записи или страницы»"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:577
+msgid "Main slider settings"
+msgstr "Настройки основного слайдера"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:579
+msgid "Main slider settings:"
+msgstr "Настройки главного слайдера:"
+
+#: inc/customizer/sagablog-customizer-main-slider.php:590
+msgid "Check to enable main slider on header."
+msgstr "Установите флажок, чтобы включить основной слайдер в заголовке."
+
+#: inc/customizer/sagablog-customizer-main-slider.php:603
+msgid "Check to enable main slider on home page and front page."
+msgstr ""
+"Установите флажок, чтобы активировать основной слайдер на домашней и главной "
+"страницах."
+
+#: inc/customizer/sagablog-customizer-main-slider.php:617
+msgid ""
+"Do not show the announcement of post or page in main slider (for slider type "
+"- Fullwidth slider)."
+msgstr ""
+"Не показывать анонс записи или страницы в основном слайдере (для типа "
+"слайдера - Полноразмерный слайдер)."
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:14
+msgid "Recommended articles"
+msgstr "Рекомендуемые статьи"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:15
+msgid "Recommended articles."
+msgstr "Рекомендуемые статьи."
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:21
+msgid "Add recommended posts"
+msgstr "Добавить рекомендуемые записи"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:24
+msgid "Choose posts that you recommend to your site visitors."
+msgstr "Выберите записи, которые вы рекомендуете посетителям вашего сайта."
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:40
+msgid "Choose post for article 1:"
+msgstr "Выберите запись для статьи 1:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:60
+msgid "Choose post for article 2:"
+msgstr "Выберите запись для статьи 2:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:80
+msgid "Choose post for article 3:"
+msgstr "Выберите запись для статьи 3:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:100
+msgid "Choose post for article 4:"
+msgstr "Выберите запись для статьи 4:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:120
+msgid "Choose post for article 5:"
+msgstr "Выберите запись для статьи 5:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:139
+msgid "Choose post for article 6:"
+msgstr "Выберите запись для статьи 6:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:151
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:153
+msgid "Settings for recommended articles."
+msgstr "Настройки для рекомендуемых статей."
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:169
+msgid "Choose position for recommended articles block:"
+msgstr "Выберите позицию для блока рекомендуемых статей:"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:171
+msgid "Do not show block with recommended articles"
+msgstr "Не показывать блок с рекомендованными статьями"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:172
+msgid "Show block with recommended articles in main content"
+msgstr "Показывать блок с рекомендованными статьями в основном контенте"
+
+#: inc/customizer/sagablog-customizer-recommended-articles.php:173
+msgid "Block with recommended articles have full width"
+msgstr "Блок с рекомендованными статьями имеет полную ширину"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:13
+msgid "Theme options"
+msgstr "Опции темы"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:14
+msgid "Theme options."
+msgstr "Опции темы."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:21
+msgid "Layouts options"
+msgstr "Параметры макетов"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:23
+msgid "Change layout options."
+msgstr "Изменить параметры макета."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:39
+msgid "Sidebar position"
+msgstr "Положение боковой панели"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:41
+msgid "No sidebar"
+msgstr "Без боковой панели"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:42
+msgid "Left sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:43
+msgid "Right sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:53
+msgid "Sticky posts options"
+msgstr "Параметры закрепленных записей"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:55
+msgid "Change sticky posts options."
+msgstr "Измените параметры закрепленных записей."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:71
+msgid "Mark sticky posts"
+msgstr "Отметить закрепленные записи"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:73
+msgid "Show ribbon (check)"
+msgstr "Показать ленту (отметить птичкой)"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:74
+msgid "Show ribbon (pin)"
+msgstr "Показать ленту (отметить булавкой)"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:75
+msgid "Show square (check)"
+msgstr "Показать квадрат (потметить птичкой)"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:76
+msgid "Show square (pin)"
+msgstr "Показать квадрат (отметить булавкой)"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:77
+msgid "Do not mark sticky posts"
+msgstr "Не отмечать закрепленные записи"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:87
+msgid "Author box"
+msgstr "Поле автора"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:90
+msgid "Show Author box on posts."
+msgstr "Показывать поле автора в записях."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:102
+msgid "Show author box on posts"
+msgstr "Показывать поле автора в записях"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:111
+msgid "Add background images"
+msgstr "Добавить фоновые изображения"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:114
+msgid "Add background images for archive, search result..."
+msgstr "Добавить фоновые изображения для архива, результата поиска .."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:125
+msgid ""
+"Choose background image for archive page (Category, author, date, tag ...). "
+"The recommended image size is 1300x210px.:"
+msgstr ""
+"Выберите фоновое изображение для страницы архива (Категория, автор, дата, "
+"тег ..). Рекомендуемый размер изображения - 1300x210 px:"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:138
+msgid ""
+"Choose background image for 404 page (the recommended image size is "
+"1300x210px):"
+msgstr ""
+"Выберите фоновое изображение для страницы 404 (рекомендуемый размер "
+"изображения 1300x210px):"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:151
+msgid ""
+"Choose background image for search page (the recommended image size is "
+"1300x210px):"
+msgstr ""
+"Выберите фоновое изображение для страницы поиска (рекомендуемый размер "
+"изображения 1300x210px):"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:161
+#: inc/customizer/sagablog-customizer-theme-options.php:178
+msgid "Front page type"
+msgstr "Тип главной страницы"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:163
+msgid "Change front page type."
+msgstr "Измените тип главной страницы."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:180
+msgid "List (Articles are large)"
+msgstr "Список (статьи большие)"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:181
+msgid "List (Articles have an average size (Pictures are on the left))"
+msgstr "Список (статьи имеют средний размер (картинки слева))"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:182
+msgid ""
+"List (Articles have an average size (The position of the pictures "
+"alternates))"
+msgstr "Список (Статьи имеют средний размер (Положение картинок меняется))"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:183
+msgid "Masonry (Articles are small)"
+msgstr "Masonry (статьи небольшие)"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:193
+msgid "Copyright text"
+msgstr "Копирайт"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:196
+msgid "Add Copyright text to footer."
+msgstr "Добавить копирайт в футер."
+
+#: inc/customizer/sagablog-customizer-theme-options.php:207
+msgid "Years:"
+msgstr "Годы:"
+
+#: inc/customizer/sagablog-customizer-theme-options.php:219
+msgid "Show copyright."
+msgstr "Показать копирайт"
+
+#: inc/inc-functions.php:36
+msgid "&#45; Select &#45;"
+msgstr "&#45; Выбрать &#45;"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:61 inc/template-tags.php:135 inc/template-tags.php:141
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:82 inc/template-tags.php:679
+msgctxt "post author"
+msgid "Posted by "
+msgstr "Опубликовано "
+
+#. translators: %s: post title
+#: inc/template-tags.php:91 inc/template-tags.php:150 inc/template-tags.php:708
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Оставьте комментарий <span class = \"screen-reader-text\"> на % s </span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:98 inc/template-tags.php:157 inc/template-tags.php:715
+#: template-parts/content-page.php:49
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:120
+msgid "Tagged: "
+msgstr "Помечено:"
+
+#: inc/template-tags.php:137
+msgid "Posted in "
+msgstr "Опубликовано в"
+
+#: inc/template-tags.php:143
+msgid "Tagged "
+msgstr "Помечено"
+
+#: inc/template-tags.php:246 single.php:24
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: inc/template-tags.php:247 single.php:21
+msgid "Next"
+msgstr "Следующий"
+
+#: inc/template-tags.php:255
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr "Просмотр корзины покупок"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:229
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d предмет"
+msgstr[1] "%d предмета"
+msgstr[2] "%d предметов"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: %s: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: 1: plugin name(s).
+#: plugins/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Установить плагин"
+msgstr[1] "Установить плагины"
+msgstr[2] "Установить плагины"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Обновить плагин"
+msgstr[1] "Обновить плагины"
+msgstr[2] "Обновить плагины"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Активировать плагин"
+msgstr[1] "Активировать плагины"
+msgstr[2] "Активировать плагины"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику требуемых плагинов"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:386
+#: plugins/tgm/class-tgm-plugin-activation.php:827
+#: plugins/tgm/class-tgm-plugin-activation.php:2533
+#: plugins/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться на панель управления"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:387
+#: plugins/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:388
+#: plugins/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был успешно активирован:"
+
+#. translators: 1: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Плагин %1$s уже  активирован."
+
+#. translators: 1: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы требуется более поздняя версия %s. "
+"Пожалуйста, обновите плагин."
+
+#. translators: 1: dashboard link.
+#: plugins/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это замечание"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Существует один или несколько обязательных или рекомендуемых плагинов для "
+"установки, обновления или активации."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь за помощью к администратору этого сайта."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Пакет плагина не содержит папки с нужным слагом, и переименование не "
+"сработало."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:934
+#: plugins/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Пожалуйста, свяжитесь с поставщиком плагина и попросите его упаковать свой "
+"плагин в соответствии с рекомендациями WordPress."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакет плагина состоит из более чем одного файла, но файлы не упакованы в "
+"папку."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:1121
+#: plugins/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. translators: %s: version number
+#: plugins/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Необходимые"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен но не активирован"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Обновление рекомендуемых"
+
+#. translators: 1: install status, 2: update status
+#: plugins/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: plugins/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновление <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестный"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимальная необходимая версия:"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Плагины для установки не выбраны. "
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагины для обновления не выбраны. "
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "В настоящее время нет доступных плагинов для установки."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "В настоящее время нет доступных плагинов для установки."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Плагины для активации не выбраны. "
+
+#: plugins/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "В настоящее время нет доступных плагинов для активации."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Не удалось активировать плагин."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Не удалось установить %1$s"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начинается процесс установки и активации. Этот процесс может занять "
+"некоторое время, поэтому проявите терпение."
+
+#. translators: 1: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3509
+#: plugins/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3509
+#: plugins/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. Этот процесс может занять некоторое время, "
+"поэтому проявите терпение."
+
+#. translators: 1: plugin name.
+#: plugins/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: plugins/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: search.php:20
+msgid "Search Results for: "
+msgstr "Результаты поиска для:"
+
+#: searchform.php:11
+msgid "Search for..."
+msgstr "Искать..."
+
+#: single.php:22
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: single.php:25
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/content-aside.php:49 template-parts/content-gallery.php:71
+#: template-parts/content-page.php:37 template-parts/content-quote.php:49
+#: template-parts/content-video.php:141 template-parts/content.php:74
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-author.php:36
+msgid "View all posts by "
+msgstr "Показать все записи от"
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post?"
+msgstr "Готовы опубликовать свою первую запись?"
+
+#: template-parts/content-none.php:18
+msgid "Get started here"
+msgstr "Начните здесь"
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но нет ничего чтобы соответствовало вашим условиям поиска. "
+"Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:26
+msgid ""
+"It looks like nothing was found at this location. To find what you are "
+"looking for check out the most recent articles below or try a search:"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Чтобы найти то, что вы ищете, "
+"просмотрите последние статьи ниже или попробуйте выполнить поиск:"
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Кажется мы не нашли то, что вы искали. Возможно, поиск поможет."
+
+#: template-parts/content-none.php:41
+msgid "Most recent posts:"
+msgstr "Последние записи:"
+
+#. Theme Name of the plugin/theme
+msgid "SagaBlog Light"
+msgstr "SagaBlog Light"
+
+#. Theme URI of the plugin/theme
+msgid "https://wdvillage.com/product/sagablog-light/"
+msgstr "https://wdvillage.com/product/sagablog-light/"
+
+#. Description of the plugin/theme
+msgid ""
+"SagaBlog Light is responsive WordPress theme for personal blog. Added more "
+"then 30+ different home variations, 7 front page type, 5 widget areas, 11 "
+"custom widgets, page templates: 'page with contact info' and 'page with no "
+"sidebar', customizer for change  the theme to suit your desires. SagaBlog "
+"Light is translation ready, high resolution, ready for Contact Form 7, "
+"compatible with WooCommerce."
+msgstr ""
+"SagaBlog Light - адаптивная тема WordPress для личного блога. Добавлено "
+"более 30+ различных вариантов домашней страницы, 7 типов главной страницы, 5 "
+"областей виджетов, 11 пользовательских виджетов, шаблоны страниц: «page with "
+"contact info» и «page with no sidebar», настройщик для изменения темы в "
+"соответствии с вашими желаниями. SagaBlog Light тема готова к переводу, к "
+"использованию картинок с высоким разрешением, готова к использованию "
+"контактной формы 7, совместима с WooCommerce."
+
+#. Author of the plugin/theme
+msgid "WD village"
+msgstr "WD village"
+
+#. Author URI of the plugin/theme
+msgid "http://wdvillage.com"
+msgstr "http://wdvillage.com"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Страница без боковой панели"
+
+#. Template Name of the plugin/theme
+msgid "Page contacts"
+msgstr "Страница с контактами"
