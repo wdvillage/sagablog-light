@@ -5,7 +5,7 @@ Contributors: vrpr
 Tags: one-column, two-columns, right-sidebar, custom-colors, custom-header, featured-images, footer-widgets, post-formats, sticky-post, theme-options, translation-ready, blog
 Requires at least: 5.0
 Requires PHP 	:  7.0
-Tested up to: 5.5.1
+Tested up to: 6.7.1
 Stable tag: 1.1.2
 License: GNU General Public License v2 or later
 License URL: LICENSE
